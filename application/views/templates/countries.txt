@@ -1,0 +1,239 @@
+1|3|Afghanistan|AF|AFG|1
+2|4|Albania|AL|ALB|1
+3|5|Algeria|DZ|DZA|1|1
+4|6|American Samoa|AS|ASM|1
+5|7|Andorra|AD|AND|1
+6|8|Angola|AO|AGO|1
+7|9|Anguilla|AI|AIA|1
+8|10|Antarctica|AQ|ATA|1|1
+9|11|Antigua and Barbuda|AG|ATG|1
+10|12|Argentina|AR|ARG|1|1
+11|13|Armenia|AM|ARM|1|1
+12|14|Aruba|AW|ABW|1
+13|15|Australia|AU|AUS|1|1
+14|16|Austria|AT|AUT|1|1
+15|17|Azerbaijan|AZ|AZE|1|1
+16|18|Bahamas|BS|BHS|1
+17|19|Bahrain|BH|BHR|1
+18|20|Bangladesh|BD|BGD|1|1
+19|21|Barbados|BB|BRB|1
+20|22|Belarus|BY|BLR|1|1
+21|23|Belgium|BE|BEL|1|1
+22|24|Belize|BZ|BLZ|1
+23|25|Benin|BJ|BEN|1
+24|26|Bermuda|BM|BMU|1
+25|27|Bhutan|BT|BTN|1
+26|28|Bolivia|BO|BOL|1
+27|29|Bosnia and Herzegowina|BA|BIH|1|1
+28|30|Botswana|BW|BWA|1
+29|31|Bouvet Island|BV|BVT|1|1
+30|32|Brazil|BR|BRA|1|1
+31|33|British Indian Ocean Territory|IO|IOT|1|1
+32|34|Brunei Darussalam|BN|BRN|1
+33|35|Bulgaria|BG|BGR|1|1
+34|36|Burkina Faso|BF|BFA|1
+35|37|Burundi|BI|BDI|1
+36|38|Cambodia|KH|KHM|1
+37|39|Cameroon|CM|CMR|1
+38|1|Canada|CA|CAN|1|1
+39|40|Cape Verde|CV|CPV|1
+40|41|Cayman Islands|KY|CYM|1
+41|42|Central African Republic|CF|CAF|1
+42|43|Chad|TD|TCD|1
+43|44|Chile|CL|CHL|1
+44|45|China|CN|CHN|1|1
+45|46|Christmas Island|CX|CXR|1|1
+46|47|Cocos (Keeling) Islands|CC|CCK|1|1
+47|48|Colombia|CO|COL|1
+48|49|Comoros|KM|COM|1|1
+49|50|Congo|CG|COG|1
+50|51|Cook Islands|CK|COK|1
+51|52|Costa Rica|CR|CRI|1
+52|53|Cote D\Ivoire|CI|CIV|1|1
+53|54|Croatia|HR|HRV|1|1
+54|55|Cuba|CU|CUB|1|1
+55|56|Cyprus|CY|CYP|1|1
+56|57|Czech Republic|CZ|CZE|1|1
+57|58|Denmark|DK|DNK|1|1
+58|59|Djibouti|DJ|DJI|1
+59|60|Dominica|DM|DMA|1
+60|61|Dominican Republic|DO|DOM|1
+61|62|East Timor|TP|TMP|1|1
+62|63|Ecuador|EC|ECU|1
+63|64|Egypt|EG|EGY|1
+64|65|El Salvador|SV|SLV|1
+65|66|Equatorial Guinea|GQ|GNQ|1
+66|67|Eritrea|ER|ERI|1
+67|68|Estonia|EE|EST|1|1
+68|69|Ethiopia|ET|ETH|1
+69|70|Falkland Islands (Malvinas)|FK|FLK|1|1
+70|71|Faroe Islands|FO|FRO|1|1
+71|72|Fiji|FJ|FJI|1
+72|73|Finland|FI|FIN|1|1
+73|74|France|FR|FRA|1|1
+74|75|France|Metropolitan|FX|FXX|1|1
+75|76|French Guiana|GF|GUF|1
+76|77|French Polynesia|PF|PYF|1
+77|78|French Southern Territories|TF|ATF|1|1
+78|79|Gabon|GA|GAB|1
+79|80|Gambia|GM|GMB|1
+80|81|Georgia|GE|GEO|1|1
+81|82|Germany|DE|DEU|1|1
+82|83|Ghana|GH|GHA|1
+83|84|Gibraltar|GI|GIB|1
+84|85|Greece|GR|GRC|1|1
+85|86|Greenland|GL|GRL|1|1
+86|87|Grenada|GD|GRD|1
+87|88|Guadeloupe|GP|GLP|1
+88|89|Guam|GU|GUM|1
+89|90|Guatemala|GT|GTM|1
+90|91|Guinea|GN|GIN|1
+91|92|Guinea-bissau|GW|GNB|1
+92|93|Guyana|GY|GUY|1
+93|94|Haiti|HT|HTI|1
+94|95|Heard and Mc Donald Islands|HM|HMD|1|1
+95|96|Honduras|HN|HND|1
+96|97|Hong Kong|HK|HKG|1
+97|98|Hungary|HU|HUN|1|1
+98|99|Iceland|IS|ISL|1|1
+99|100|India|IN|IND|1|1
+100|101|Indonesia|ID|IDN|1|1
+101|102|Iran (Islamic Republic of)|IR|IRN|1|1
+102|103|Iraq|IQ|IRQ|1
+103|104|Ireland|IE|IRL|1
+104|105|Israel|IL|ISR|1|1
+105|106|Italy|IT|ITA|1|1
+106|107|Jamaica|JM|JAM|1
+107|108|Japan|JP|JPN|1|1
+108|109|Jordan|JO|JOR|1
+109|110|Kazakhstan|KZ|KAZ|1|1
+110|111|Kenya|KE|KEN|1
+111|112|Kiribati|KI|KIR|1
+112|113|North Korea|KP|PRK|1|1
+113|114|Korea|Republic of|KR|KOR|1|1
+114|115|Kuwait|KW|KWT|1
+115|116|Kyrgyzstan|KG|KGZ|1|1
+116|117|Lao People\s Democratic Republic|LA|LAO|1
+117|118|Latvia|LV|LVA|1|1
+118|119|Lebanon|LB|LBN|1
+119|120|Lesotho|LS|LSO|1
+120|121|Liberia|LR|LBR|1
+121|122|Libyan Arab Jamahiriya|LY|LBY|1|1
+122|123|Liechtenstein|LI|LIE|1|1
+123|124|Lithuania|LT|LTU|1|1
+124|125|Luxembourg|LU|LUX|1|1
+125|126|Macau|MO|MAC|1
+126|127|Macedonia|MK|MKD|1|1
+127|128|Madagascar|MG|MDG|1
+128|129|Malawi|MW|MWI|1|1
+129|130|Malaysia|MY|MYS|1|1
+130|131|Maldives|MV|MDV|1
+131|132|Mali|ML|MLI|1
+132|133|Malta|MT|MLT|1
+133|134|Marshall Islands|MH|MHL|1|1
+134|135|Martinique|MQ|MTQ|1|1
+135|136|Mauritania|MR|MRT|1
+136|137|Mauritius|MU|MUS|1
+137|138|Mayotte|YT|MYT|1|1
+138|139|Mexico|MX|MEX|1|1
+139|140|Micronesia|Federated States of|FM|FSM|1|1
+140|141|Moldova|Republic of|MD|MDA|1|1
+141|142|Monaco|MC|MCO|1|1
+142|143|Mongolia|MN|MNG|1|1
+143|144|Montserrat|MS|MSR|1
+144|145|Morocco|MA|MAR|1
+145|146|Mozambique|MZ|MOZ|1
+146|147|Myanmar|MM|MMR|1|1
+147|148|Namibia|NA|NAM|1
+148|149|Nauru|NR|NRU|1|1
+149|150|Nepal|NP|NPL|1
+150|151|Netherlands|NL|NLD|1|1
+151|152|Netherlands Antilles|AN|ANT|1
+152|153|New Caledonia|NC|NCL|1
+153|154|New Zealand|NZ|NZL|1|1
+154|155|Nicaragua|NI|NIC|1
+155|156|Niger|NE|NER|1
+156|157|Nigeria|NG|NGA|1
+157|158|Niue|NU|NIU|1|1
+158|159|Norfolk Island|NF|NFK|1
+159|160|Northern Mariana Islands|MP|MNP|1
+160|161|Norway|NO|NOR|1|1
+161|162|Oman|OM|OMN|1
+162|163|Pakistan|PK|PAK|1|1
+163|164|Palau|PW|PLW|1|1
+164|165|Panama|PA|PAN|1
+165|166|Papua New Guinea|PG|PNG|1
+166|167|Paraguay|PY|PRY|1
+167|168|Peru|PE|PER|1
+168|169|Philippines|PH|PHL|1|1
+169|170|Pitcairn|PN|PCN|1|1
+170|171|Poland|PL|POL|1|1
+171|172|Portugal|PT|PRT|1|1
+172|173|Puerto Rico|PR|PRI|1|1
+173|174|Qatar|QA|QAT|1
+174|175|Reunion|RE|REU|1|1
+175|176|Romania|RO|ROM|1|1
+176|177|Russian Federation|RU|RUS|1|1
+177|178|Rwanda|RW|RWA|1
+178|179|Saint Kitts and Nevis|KN|KNA|1|1
+179|180|Saint Lucia|LC|LCA|1|1
+180|181|Saint Vincent and the Grenadines|VC|VCT|1|1
+181|182|Samoa|WS|WSM|1|1
+182|183|San Marino|SM|SMR|1|1
+183|184|Sao Tome and Principe|ST|STP|1|1
+184|185|Saudi Arabia|SA|SAU|1|1
+185|186|Senegal|SN|SEN|1
+186|187|Seychelles|SC|SYC|1
+187|188|Sierra Leone|SL|SLE|1
+188|189|Singapore|SG|SGP|1|1
+189|190|Slovak Republic|SK|SVK|{firstname} {lastname}\r\n{company}\r\n{address_1}\n{address_2}\r\n{city} {zip}\r\n{zone}\r\n{country}|1|1
+190|191|Slovenia|SI|SVN|1|1
+191|192|Solomon Islands|SB|SLB|1
+192|193|Somalia|SO|SOM|1|1
+193|194|South Africa|ZA|ZAF|1|1
+194|195|South Georgia &amp; South Sandwich Islands|GS|SGS|1|1
+195|196|Spain|ES|ESP|1|1
+196|197|Sri Lanka|LK|LKA|1|1
+197|198|St. Helena|SH|SHN|1|1
+198|199|St. Pierre and Miquelon|PM|SPM|1|1
+199|200|Sudan|SD|SDN|1|1
+200|201|Suriname|SR|SUR|1
+201|202|Svalbard and Jan Mayen Islands|SJ|SJM|1|1
+202|203|Swaziland|SZ|SWZ|1
+203|204|Sweden|SE|SWE|1|1
+204|205|Switzerland|CH|CHE|1|1
+205|206|Syrian Arab Republic|SY|SYR|1
+206|207|Taiwan|TW|TWN|1|1
+207|208|Tajikistan|TJ|TJK|1|1
+208|209|Tanzania|United Republic of|TZ|TZA|1
+209|210|Thailand|TH|THA|1|1
+210|211|Togo|TG|TGO|1
+211|212|Tokelau|TK|TKL|1|1
+212|213|Tonga|TO|TON|1
+213|214|Trinidad and Tobago|TT|TTO|1
+214|215|Tunisia|TN|TUN|1
+215|216|Turkey|TR|TUR|1|1
+216|217|Turkmenistan|TM|TKM|1|1
+217|218|Turks and Caicos Islands|TC|TCA|1
+218|219|Tuvalu|TV|TUV|1
+219|220|Uganda|UG|UGA|1
+220|221|Ukraine|UA|UKR|1|1
+221|222|United Arab Emirates|AE|ARE|1
+222|2|United Kingdom|GB|GBR|1|1
+223|United States|US|USA|{firstname} {lastname}\n{company}\n{address_1}\n{address_2}\n{city}, {zone} {zip}\n{country}|1|1
+224|223|United States Minor Outlying Islands|UM|UMI|1|1
+225|224|Uruguay|UY|URY|1|1
+226|225|Uzbekistan|UZ|UZB|1|1
+227|226|Vanuatu|VU|VUT|1
+228|227|Vatican City State (Holy See)|VA|VAT|1|1
+229|228|Venezuela|VE|VEN|1
+230|229|Viet Nam|VN|VNM|1|1
+231|230|Virgin Islands (British)|VG|VGB|1
+232|231|Virgin Islands (U.S.)|VI|VIR|1|1
+233|232|Wallis and Futuna Islands|WF|WLF|1
+234|233|Western Sahara|EH|ESH|1|1
+235|234|Yemen|YE|YEM|1
+236|235|Yugoslavia|YU|YUG|1|1
+237|236|Democratic Republic of Congo|CD|COD|1|1
+238|237|Zambia|ZM|ZMB|1
+239|238|Zimbabwe|ZW|ZWE|1
